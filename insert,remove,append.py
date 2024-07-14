@@ -1,0 +1,9 @@
+a=["hetvi","janvi","natasha"]
+a.insert(1,"chudel")
+print(a)
+a.remove("natasha")
+print(a)
+a.append("raveti")
+print(a)
+a.append("natasha")
+print(a)
